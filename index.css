@@ -1,0 +1,22 @@
+body {
+    background-color: #fefefe;
+}
+
+.button {
+    width: 120px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-add {
+    background-color: #008CBA;
+}
+
+.btn-del {
+    background-color:#f44336;
+}
